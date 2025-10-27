@@ -20,3 +20,9 @@ function divide(x, y) {
     return x / y;
 }
 console.log("The quotient of " + x + " and " + y + " is: " + divide(x, y));
+
+function squareNumber(num) {
+    return num * num;
+}
+console.log("The square of " + x + " is: " + squareNumber(x));
+console.log("The square of " + y + " is: " + squareNumber(y));
