@@ -15,3 +15,8 @@ function multiply(x, y) {
     return x * y;
 }
 console.log("The product of " + x + " and " + y + " is: " + multiply(x, y));
+
+function divide(x, y) {
+    return x / y;
+}
+console.log("The quotient of " + x + " and " + y + " is: " + divide(x, y));
