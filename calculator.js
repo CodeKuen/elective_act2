@@ -10,3 +10,8 @@ function subtract(x, y) {
     return x - y;
 }
 console.log("The difference of " + x + " and " + y + " is: " + subtract(x, y));
+
+function multiply(x, y) {
+    return x * y;
+}
+console.log("The product of " + x + " and " + y + " is: " + multiply(x, y));
